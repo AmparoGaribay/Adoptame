@@ -1,0 +1,12 @@
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\bin\Debug\AdoptameAppES.exe.config
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\bin\Debug\AdoptameAppES.exe
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\bin\Debug\AdoptameAppES.pdb
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.csprojResolveAssemblyReference.cache
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.Form1.resources
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.Properties.Resources.resources
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.csproj.GenerateResource.Cache
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.exe
+c:\users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.pdb
+C:\Users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.intAdministrador.resources
+C:\Users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.intUsuario.resources
+C:\Users\mbrisk\documents\visual studio 2015\Projects\AdoptameAppES\AdoptameAppES\obj\Debug\AdoptameAppES.formPersona.resources
